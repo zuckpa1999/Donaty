@@ -12,6 +12,7 @@ Donaty is the crowdsourcing platform that connects people who want to donate mon
 
 <Image src=./demo1.png>
 <Image src=./demo2.png>
+<Image src=./demo3.png>
 
 
 
